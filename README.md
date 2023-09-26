@@ -8,7 +8,7 @@
 Я data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мій шлях в ІТ розпочався літом 2022 року, коли я почав писати код на Python як хоббі. Згодом це переросло в проекти з аналізу даних, машиного та глибокого навчання, використовуючи складні багатошарові нейромережі та моделі машиного навчання. Маю 10 сертифікатів отриманих під час навчання, які підтверджують мої знання та знання багатьох технологій, добре відпрацьованих на практиці. 
 
 
-- :mailbox: Зворотній зв'язок: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hlistiktaras) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hlistiktaras@gmail.com)
+- :mailbox: Зворотній зв'язок: [![Telegram Badge](https://img.shields.io/badge/-hlistiktaras-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hlistiktaras) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hlistiktaras@gmail.com)
 
 ---
 
