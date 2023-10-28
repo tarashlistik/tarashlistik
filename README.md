@@ -2,20 +2,20 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
 
-# Привіт, мене звати Тарас!
+# Hello, my name is Taras!
 
 ---
 
 ### :man_technologist: Про мене:
 
-Я data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мій шлях в ІТ розпочався літом 2022 року, коли я почав писати код на Python як хоббі. Згодом це переросло в проекти з аналізу даних, машиного та глибокого навчання, використовуючи складні багатошарові нейромережі та моделі машиного навчання. Маю 10 сертифікатів отриманих під час навчання, які підтверджують мої знання та знання багатьох технологій, добре відпрацьованих на практиці. 
+I am a data scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. My journey in IT began in the summer of 2022 when I started writing Python code as a hobby. Over time, it grew into data analysis, machine learning, and deep learning projects using complex multi-layer neural networks and machine learning models. I have 10 certificates obtained during my studies, which confirm my knowledge and expertise in many technologies, well practiced in practice. 
 
 
-- :mailbox: Зворотній зв'язок: [![Telegram Badge](https://img.shields.io/badge/-hlistiktaras-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hlistiktaras) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hlistiktaras@gmail.com)
+- :mailbox: Feedback: [![Telegram Badge](https://img.shields.io/badge/-hlistiktaras-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/hlistiktaras) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:hlistiktaras@gmail.com)
 
 ---
 
-### 🤝 Соціальні мережі:
+### 🤝 Social networks:
 
   <div id="badges">
     <a href="https://www.linkedin.com/in/tarashlustik" target="_blank">
@@ -37,7 +37,7 @@
 
 ---
 
-### 💻🛠 Технології та інструменти:
+### 💻🛠 Technologies and tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -54,20 +54,20 @@
 ---
 
 
-### 💻 Пройдені курси:
+### 💻 Courses completed:
 
-| Курсы                                                                     | Дата              |
-| ------------------------------------------------------------------------- | :---------------: |
-| udemy.com/Data Science: Deep Learning and Neural Networks in Python       | 06/2023 - 09/2023 |
-| stepik.org/Интерактивный тренажер по SQL                                  | 08/2023 - 09/2023 |
-| stepik.org/Основы статистики. Часть 2                                     | 04/2022 - 05/2022 |
-| stepik.org/Введение в Data Science и машинное обучение                    | 03/2022 - 05/2022 |
-| stepik.org/Основы статистики                                              | 02/2022 - 03/2022 |
-| stepik.org/Git для всех                                                   | 03/2023 - 03/2023 |
-| stepik.org/Добрый, добрый Python ООП - обучающий курс от Сергея Балакирева| 02/2023 - 03/2023 |
-| stepik.org/"Поколение Python": курс для профессионалов                    | 10/2022 - 01/2023 |
-| stepik.org/"Поколение Python": курс для продвинутых                       | 09/2022 - 10/2022 |
-| stepik.org/"Поколение Python": курс для начинающих                        | 08/2022 - 09/2022 |
+| Courses | Date |
+| -------------------------------------------------------------------- | :---------------: |
+| udemy.com/Data Science: Deep Learning and Neural Networks in Python  | 06/2023 - 09/2023 |
+| stepik.org/Interactive SQL Trainer                                   | 08/2023 - 09/2023 |
+| stepik.org/Basics of Statistics. Part 2                              | 04/2022 - 05/2022 |
+| stepik.org/ Introduction to Data Science and Machine Learning        | 03/2022 - 05/2022 |
+| stepik.org/Foundations of Statistics                                 | 02/2022 - 03/2022 |
+| stepik.org/Git for Everyone                                          | 03/2023 - 03/2023 |
+| stepik.org/good, good Python OOP - a tutorial from Sergey Balakirev  | 02/2023 - 03/2023 |
+| stepik.org/"Generation Python": a course for professionals           | 10/2022 - 01/2023 |
+| stepik.org/"Generation Python": an advanced course                   | 09/2022 - 10/2022 |
+| stepik.org/"Generation Python": a course for beginners               | 08/2022 - 09/2022 |
 
 ---
 
